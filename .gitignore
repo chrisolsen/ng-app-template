@@ -1,0 +1,6 @@
+bower_components
+node_modules
+vendor
+temp
+.tmp
+npm-debug.log
